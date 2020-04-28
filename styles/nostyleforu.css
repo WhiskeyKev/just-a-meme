@@ -1,0 +1,25 @@
+body {
+    font-family: 'Archivo Black';
+    font-size: 22px;
+    background-color: #4ddbff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#duContenuAuMilieu {
+	text-align: center;
+}
+
+#cptDeBs {
+	font-size: 50%;
+	color: #ff66a3;
+}
+
+#grosMessage {
+	font-size: 400%;
+	color: #ff531a;
+}
